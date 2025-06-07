@@ -26,10 +26,10 @@
 
 ## 🚀 Запуск проекта
 
-git clone https://github.com/Ars078/Test_shop.git
-cd your-repo-name
-npm install
-npm run dev
+- git clone https://github.com/Ars078/Test_shop.git
+- cd your-repo-name
+- npm install
+- npm run dev
 
 
 
